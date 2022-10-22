@@ -1,6 +1,6 @@
 {
-    "name": "githubname",
-    "description": "githubname",
+    "name": "v2ray",
+    "description": "v2ray",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
